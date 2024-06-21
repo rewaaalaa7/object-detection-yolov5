@@ -1,9 +1,7 @@
 # Object Detection using YOLOv5 and Streamlit
-
-## Overview
-
 This project is a Streamlit application that allows users to upload an image and perform object detection using YOLOv5. Upon uploading an image and clicking the "Analyse Image" button, the application will detect objects present in the image and display a list of their names.
-
+<img src="image1.png" alt="Sample Image">
+<img src="image2.png" alt ="sample Image">
 ## Features
 
 - **Image Upload**: Users can upload an image file (JPEG, PNG, etc.) using a file uploader widget.
